@@ -32,7 +32,7 @@
 				</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link btn btn-success" href="#">
+				<a class="nav-link btn btn-success" href="{{ route('auth.signup') }}">
 					<span style="color: #fff;">Sign Up</span>
 				</a>
 			</li>
